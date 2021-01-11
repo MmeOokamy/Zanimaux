@@ -1,0 +1,93 @@
+[
+
+{
+"id" : 1,
+"imageName": "1",
+"title": "Prendre 50 photos",
+"number":  "40",
+"body":  "/ 50 reussis",
+"cardValue": 200
+},
+
+{
+"id" : 2,
+"imageName": "2",
+"title": "Prendre 100 photos",
+"number":  "40",
+"body":  "/ 100 reussis",
+"cardValue": 900
+},
+
+{
+"id" : 3,
+"imageName": "3",
+"title": "Débloquer une carte animal en danger",
+"number":  "1",
+"body":  "/ 1 reussis",
+"cardValue": 500
+},
+
+{
+"id" : 4,
+"imageName": "4",
+"title": "Prendre 10 photos d'animaux de la ferme",
+"number":  "3",
+"body":  "/ 10 reussis",
+"cardValue": 100
+},
+
+{
+"id" : 5,
+"imageName": "5",
+"title": "Prendre en photo un cheval et un poney",
+"number":  "1",
+"body":  "/ 2 reussis",
+"cardValue": 500
+},
+
+{
+"id" : 6,
+"imageName": "6",
+"title": "Prendre en photo un ours au zoo",
+"number":  "0",
+"body":  "/ 1 reussis",
+"cardValue": 200
+},
+
+{
+"id" : 7,
+"imageName": "7",
+"title": "Avoir 5 cartes d'ours",
+"number":  "0",
+"body":  "/ 5 reussis",
+"cardValue": 500
+},
+
+{
+"id" : 8,
+"imageName": "8",
+"title": "Avoir une carte animal de la savane",
+"number":  "0",
+"body":  "/ 1 reussis",
+"cardValue": 400
+},
+
+{
+"id" : 9,
+"imageName": "9",
+"title": "Avoir 10 photos de lapins",
+"number":  "1",
+"body":  "/ 10 reussis",
+"cardValue": 300
+},
+
+{
+"id" : 10,
+"imageName": "10",
+"title": "Réussir tous les defis",
+"number":  "2",
+"body":  "/ 10 reussis",
+"cardValue": 2000
+},
+
+]

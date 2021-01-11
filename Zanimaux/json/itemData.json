@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Dindon",
+        "family": "birds",
+        "id": 1001,
+        "smallDescription": "Le cri du dindon est très particulier puisqu'il glougloute.",
+        "bigDescription": "\nJe suis un dindon, un gros oiseau de basse-cour, originaire d'Amérique du Nord. Ma tête est nue et couverte de caroncules verruqueuses rouges et de peau bleue. Les jeunes mangent jusqu'à 4000 insectes par jours, les adultes y ajoutent des graines, herbes, racines, bourgeons et fleurs. \n \nPour me défendre, je pique du bec, griffe avec mes serres et soufflette avec mes ailes. Polygame, je fais la cour en déployant ma queue en éventail, ailes basses et tête haute, avec un glouglou caractéristique. A l'état sauvage, je vis à terre mais me repose et dors dans les arbres. \n \nMa femme est une dinde et mon enfant un dindonneau.",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "dindon",
+        "datePhoto": "23/06/2020",
+        "cardValue": 100
+    },
+    {
+        "name": "Grenouille",
+        "family": "amphibians",
+        "id": 1002,
+        "smallDescription": "Les grenouilles vivent sur terre et dans l'eau, c'est pourquoi on les appelle des amphibiens.",
+        "bigDescription": "\nLes femelles pondent dans l'eau des œufs qui se transforment en têtards. Ceux-ci évoluent dans l'eau et se nourrissent de minuscules plantes aquatiques. Ils respirent avec des branchies comme les poissons, avant de devenir des grenouilles qui possèdent des poumons et respirent aussi par la peau. \n \nLe têtard naît avec une petite queue lui permettant de nager, celle-ci disparaîtra quand ses quatre pattes auront poussé. La grenouille est ovipare non vivipare car elle pond des oeufs.",
+        "coordinates": {
+            "longitude": 4.7241,
+            "latitude": 45.8069
+        },
+        "imageName": "frog",
+        "datePhoto": "17/09/2019",
+        "cardValue": 300
+    },
+    {
+        "name": "Lézard",
+        "family": "reptiles",
+        "id": 1003,
+        "smallDescription": "Leur peau est très sèche car ils n'ont pas de pores : ils ne transpirent pas.",
+        "bigDescription": "\nLe lézard des murailles est un petit lézard commun en Espagne, France, Italie, et dans les Balkans. C'est le plus courant de tous les lézards : on l'a sûrement déjà rencontré. Il vit un peu partout, même en ville. \n \nIl aime se reposer au soleil sur une pierre, pour se réchauffer. Il apprécie tout particulièrement les constructions humaines, et notamment les vieux murs, sur lesquels il peut se réchauffer, mais où il trouve aussi des fentes et des trous pour se cacher : c'est ce qui lui a valu son nom de lézard des murailles.",
+        "coordinates": {
+            "longitude": 5.3569,
+            "latitude": 43.2940
+        },
+        "imageName": "lezard",
+        "datePhoto": "03/07/2019",
+        "cardValue": 300
+    },
+    {
+        "name": "Mouton",
+        "family": "mammals",
+        "id": 1004,
+        "smallDescription": "Le mouton est un des animaux les plus anciennement domestiqués par l'homme.",
+        "bigDescription": "\nPendant les déplacements d'une pâture à l'autre, les moutons se nourrissent chemin faisant. Ils favorisent ainsi l'entretien des landes qui seraient vite envahies par les arbrisseaux. Ils débroussaillent les sous-bois et empêchent ainsi l'extension des incendies. Ils nettoient les berges des ruisseaux. \n \nPourtant dans les régions méditerranéennes, les bergers sont souvent accusés d'être à l'origine d'incendie lorsqu'ils brûlent le maquis afin d'étendre les surfaces à pâturer et qu'ils n'arrivent plus à maîtriser la propagation du feu.",
+        "coordinates": {
+            "longitude": 4.5830,
+            "latitude": 45.2914
+        },
+        "imageName": "ship",
+        "datePhoto": "15/04/2020",
+        "cardValue": 100
+    },
+    {
+        "name": "Pissenlit",
+        "family": "plants",
+        "id": 1005,
+        "smallDescription": "Le pissenlit est originaire d'Asie.",
+        "bigDescription": "\nLes feuilles forment une rosette. Les fleurs, une fois fécondées, elles sèchent, formant une petite boule de plumets blancs, dont les composants s'envolent au moindre coup de vent : le pissenlit est ainsi un grand colonisateur de terrain. \n \nLe pissenlit s'adapte à beaucoup de milieux : on en trouve en ville qui poussent dans l'asphalte des rues. Dans les jardins potagers, le pissenlit grâce à son puissant système racinaire peut ameublir le sol. De plus en se décomposant, la racine laisse place à un tunnel qui favorise la pénétration de l'eau et de l'air dans le sol; ainsi que de voie de passage pour les vers de terre.",
+        "coordinates": {
+            "longitude": 2.0734,
+            "latitude": 45.3649
+        },
+        "imageName": "pissenlit",
+        "datePhoto": "19/05/2020",
+        "cardValue": 100
+    },
+    {
+        "name": "Berger Belge",
+        "family": "mammals",
+        "id": 1006,
+        "smallDescription": "Le chien appartient à la même famille que le Loup Gris.",
+        "bigDescription": "\nLe Berger Belge pèse entre 20 à 25 kilos pour la femelle et entre 25 à 30 kilos pour le mâle en moyenne. Ses oreilles sont petites et triangulaires. Son poil et brun et court. \n \nIl a besoin de un à deux repas par jour. Il faut éviter de lui donner des sucreries (chocolats, etc,.). Il a besoin d'aliments secs pour cause de conservation et d'hygiène. \n \nIl est très affectueux avec ses maîtres et aussi très joueur avec les enfants. Il adore les jeux avec ses maîtres et il déteste rester seul trop longtemps. \n \nPour avoir un Berger Belge il faut : le promener chaque jour et ne pas le laisser seul trop souvent.",
+        "coordinates": {
+            "longitude": 4.8547,
+            "latitude": 45.7752
+        },
+        "imageName": "dog",
+        "datePhoto": "03/07/2020",
+        "cardValue": 400
+    }
+]

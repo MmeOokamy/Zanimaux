@@ -1,0 +1,60 @@
+[
+   
+    {
+        "id": 101,
+        "imageName": "",
+        "todayTitle": "Le Savais-Tu ?",
+        "todayIcon": "tornado",
+        "todayDescription": "Les abeilles ont un rôle important dans la biodiversité du monde.",
+    },
+    
+    {
+        "id": 102,
+        "imageName": "pandaRoux",
+        "todayTitle": "Le Panda Roux",
+        "todayIcon": "hare",
+        "todayDescription": "Il a reçu le prix de l'animal le plus mignon, ce petit panda est un melange entre renard, chat, ours et raton-laveur.",
+    },
+    
+    {
+        "id": 100,
+        "imageName": "aspas",
+        "todayTitle": "Association du Mois",
+        "todayIcon": "calendar",
+        "todayDescription": "L’ASPAS œuvre pour la protection de la faune sauvage, par exemple favoriser la connaissance et la protection du loup ou des animaux dit nuisibles.",
+    },
+    
+    {
+        "id": 103,
+        "imageName": "",
+        "todayTitle": "Activité en Famille",
+        "todayIcon": "ant",
+        "todayDescription": "Les Lacs et Rivières: quand il fait chaud c'est toujours agrèables de pouvoir s'y baigner. Il n'y a pas seulement la mer ou la piscine pour se rafraîchir. Tu y trouveras plein d'insectes à prendre en photo pour compléter ta collection !",
+    },
+    
+    {
+        "id": 104,
+        "imageName": "",
+        "todayTitle": "C'est l'Été!",
+        "todayIcon": "sun.max",
+        "todayDescription": "L'été est là et la chaleur avec! Pense à bien t'hydrater et à rester au frais pendant les heures les plus chaudes de la journée. Mange léger et varié comme des fruits et des legumes. Surtout veille sur les personnes fragiles qui sont autour de toi !",
+    },
+    
+    {
+        "id": 105,
+        "imageName": "biodiversity",
+        "todayTitle": "Biodiversité... c'est quoi?",
+        "todayIcon": "leaf.arrow.circlepath",
+        "todayDescription": "Cela désigne l'ensemble de toutes les espèces vivantes présentes sur Terre. La biodiversité est un équilibre indispensable pour maintenir la diversité du vivant. Si on ne respecte pas l'environnement, la biodiversité est mise en danger, des espèces animales et végétales risquent de disparaître.",
+    },
+    
+    {
+        "id": 106,
+        "imageName": "",
+        "todayTitle": "WikiMini",
+        "todayIcon": "book",
+        "todayDescription": "Wikimini est une encyclopédie en ligne écrite par des enfants et des adolescents, aidés des plus grands.",
+    },
+    
+]
+
